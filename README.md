@@ -1,6 +1,6 @@
 ## Hello everyone 👋, I'm [Alexander!](https://github.com/IlinAlexVikt/)
 
-- 🔭 I am currently looking for a job
+- I am currently looking for a job
 - I am currently improving my knowledge
 - I am ready to cooperate with you in the field of Data Science
 - You can ask me questions about this by contacting the contacts listed in the profile.
@@ -13,7 +13,20 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,go,php,bash" alt="Python, JavaScript, TypeScript, Go, PHP, Bash" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />&nbsp;<img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white" height="48" alt="SQL" />
+
+**libraries**
+
+<p>
+  <a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"></a>
+  <a href="https://numpy.org"><img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"></a>
+  <a href="https://scipy.org"><img src="https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white" alt="SciPy"></a>
+  <a href="https://matplotlib.org"><img src="https://img.shields.io/badge/-Matplotlib-FB9641?logo=matplotlib&logoColor=white" alt="Matplotlib"></a>
+  <a href="https://seaborn.pydata.org"><img src="https://img.shields.io/badge/-Seaborn-3369E8?logo=seaborn&logoColor=white" alt="Seaborn"></a>
+  <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn"></a>
+  <a href="https://catboost.ai"><img src="https://img.shields.io/badge/-CatBoost-00A1F1?logo=catboost&logoColor=white" alt="CatBoost"></a>
+  <a href="https://xgboost.readthedocs.io"><img src="https://img.shields.io/badge/-XGBoost-D73A49?logo=xgboost&logoColor=white" alt="XGBoost"></a>
+</p>
 
 **Frontend**
 
