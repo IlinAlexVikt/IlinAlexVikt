@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech stack
 
-**training**
+**Training**
 
 | Course | Platform | Year | Progress |
 |------|---------|-----|---------|
