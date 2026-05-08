@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander!</h1>
-<h3 align="center">I am a data analyst from Russia.</h3>
+<h3 align="center">I am a specialist in data analysis</h3>
 
 - I am currently improving my knowledge and looking for a job.
 - I am ready to cooperate with you in the field of Data Science.
